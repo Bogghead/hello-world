@@ -11,3 +11,5 @@ But let's play a bit first.
 - uno .1
 
 **Impressive**, no? *Confusing*, yes.
+
+This is a little about myself. It cnnor say much because of course it is just a little bit, smaller that the other bits.
