@@ -1,0 +1,18 @@
+Features I want make sure are covered:
+- Open Type System
+- Advanced type inference
+- Program files (mix statements, functions, and classes at the same level)
+- Structural typing (like TypeScript's interfaces)
+- Extension methods (aka enhancements)
+- Java interoperability
+- Lambda expressions
+- Classes/Interfaces/Enums
+- Generics (simplified, reified, declaration site variance)
+- Composition (via the delegate keyword)
+- Properties
+- Null Safety (supports operator ?. etc.)
+- Named Arguments and Default Parameter Values
+- A powerful for-statement with user-defined ranges
+- Member Literals
+- Object Initializers
+- Classpath Statement and Shebang (for use with Gosu as a scripting language)
